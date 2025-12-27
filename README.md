@@ -20,12 +20,6 @@ The resolutions are fully searchable and annotated, making them accessible to re
 
 ## Installation
 
-### From PyPI (when published)
-
-```bash
-pip install goetgevonden
-```
-
 ### From source
 
 ```bash
